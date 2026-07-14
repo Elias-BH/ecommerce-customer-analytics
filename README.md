@@ -74,8 +74,7 @@ This project analyzes over **525,000 retail transactions** to identify customer 
 
 ```
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   └── processed.xlsx
 │
 ├── notebooks/
 │   └── Customer_Segmentation.ipynb
